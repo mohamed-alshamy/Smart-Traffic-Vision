@@ -1,5 +1,9 @@
 # 🚗 Smart Traffic Vision
 
+<p align="center">
+  <img src="https://github.com/mohamed-alshamy/Autonomous-Wheelchair/blob/main/MAVERICK" width="650" alt="MAVERICK Banner">
+</p>
+
 A real-time computer vision system for **vehicle tracking, traffic flow analysis, wrong-way detection, lane monitoring, and road blockage detection** using **YOLOv12x, OpenCV, and Python**.
 
 The system processes traffic video feeds, tracks individual vehicles across frames, learns the dominant traffic direction in each lane, detects vehicles moving against the established flow, and identifies potential lane blockages caused by stopped vehicles moving in conflicting directions.
