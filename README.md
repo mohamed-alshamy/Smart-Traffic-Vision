@@ -1,7 +1,7 @@
 # 🚗 Smart Traffic Vision
 
 <p align="center">
-  <img src="https://github.com/mohamed-alshamy/Autonomous-Wheelchair/blob/main/MAVERICK" width="650" alt="MAVERICK Banner">
+  <img src="https://github.com/mohamed-alshamy/Smart-Traffic-Vision/blob/main/Smart%20Traffic%20Vision.jpg" width="650" alt="MAVERICK Banner">
 </p>
 
 A real-time computer vision system for **vehicle tracking, traffic flow analysis, wrong-way detection, lane monitoring, and road blockage detection** using **YOLOv12x, OpenCV, and Python**.
